@@ -1,6 +1,6 @@
 bl_info = {
-    "name": "Anime By Me",
-    "author": "AnimeByMe",
+    "name": "Wonder-Adder",
+    "author": "Ayush",
     "blender": (2, 80, 3),
     "location": "Menu > Submenus",
     "description": "An add-on to import models",
